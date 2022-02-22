@@ -1,45 +1,41 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
-    "description": "I eat, sleep and breathe React",
+    "name": "S Satyanarayan Patra",
+    "occupation": "Student of Masai School",
+    "description": "I eat, sleep and breathe Code",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
+    "bio": "Hi there! I am Satya! I've been coding for over 6 months now. As a Full Stack developer I've worked both with co-learners and peers to help build & scale our projects and personal projects. Along the journey I realised my passion existed in building advanced, scalable and community serving tools and websites. With this passion, I have now created several projects through Masai school and a few on my own. Through live coaching sessions and Youtube, and had accumulated skills in a range of cool builds and challenges. I am looking forward to deliver REAL VALUE by building REAL WORLD projects to help community and companies thrive in the world of web development. I am slo looking forward to get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
+    "contactmessage": "Get in touch with me to be a part of the developers' community",
+    "email": "satya77888narayanpatra@gmail.com",
     "phone": "+44 1234567899",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "street": "Biswanath Nagar, 3rd lane",
+      "city": "Berhampur",
+      "state": "Odisha",
+      "zip": "760008"
     },
     "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "resumedownload": "https://drive.google.com/file/d/1qve-z2REzFqqVrpZtAB6Dys1UTsvGSi0/view?usp=sharing",
     "social": [
-      {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
-        "className": "fa fa-youtube"
-      },
+      
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/satyanarayana.patra.77",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/satyanarayan-p-4575b9171/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/satyanarayanapatra/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/damn-cool",
         "className": "fa fa-github"
       }
     ]
@@ -48,9 +44,9 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
+        "school": "National Institute of Technology- Rourkela",
+        "degree": "Bachelor's Degree, Ceramic Engineering",
+        "graduated": "July 2021",
         "description": "Graduated with First Class Honours"
       }
     ],
@@ -107,16 +103,5 @@
       }
     ]
   },
-  "testimonials": {
-    "testimonials": [
-      {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
-      },
-      {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
-      }
-    ]
-  }
+  
 }
